@@ -9,6 +9,17 @@ npm install
 ```
 npm run serve
 ```
+## Install JSON Server
+
+```
+npm install -g json-server
+```
+
+## Run JSON server
+
+```
+json-server db.json
+```
 
 ### Compiles and minifies for production
 ```
